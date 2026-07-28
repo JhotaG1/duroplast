@@ -4,7 +4,7 @@
     "name": "Thermoforming Film",
     "description": "High volume, high barrier film for horizontal form-fill-and-seal (HFFS) applications.",
     "category": "Rollstock Films",
-    "image": "/rollstock.png",
+    "image": "/Thermoformed-Feta-cheese.png",
     "bgImage": "/rollstock-bg.jpg"
   },
   {
@@ -12,7 +12,7 @@
     "name": "Semi-Rigid Thermoforming Film",
     "description": "Semi-rigid film for horizontal high-speed form-fill-and-seal (HFFS) applications.",
     "category": "Rollstock Films",
-    "image": "/rollstock.png",
+    "image": "/Thermoformed-Feta-cheese.png",
     "bgImage": "/rollstock-bg.jpg"
   },
   {
@@ -20,7 +20,7 @@
     "name": "Lidding Film",
     "description": "Hermetically sealed film for the top of your tray or container.",
     "category": "Rollstock Films",
-    "image": "/rollstock.png",
+    "image": "/Beef-lidding-film.png",
     "bgImage": "/rollstock-bg.jpg"
   },
   {
@@ -28,7 +28,7 @@
     "name": "Skin Film",
     "description": "For horizontal form-fill-and-seal applications, allowing you to better show off the quality of your product.",
     "category": "Rollstock Films",
-    "image": "/rollstock.png",
+    "image": "/Steak-in-skin-film.png",
     "bgImage": "/rollstock-bg.jpg"
   },
   {
@@ -36,7 +36,7 @@
     "name": "VFFS Film",
     "description": "For high-output production in a VFFS machine.",
     "category": "Rollstock Films",
-    "image": "/rollstock.png",
+    "image": "/VFFS.jpg",
     "bgImage": "/rollstock-bg.jpg"
   },
   {
@@ -44,7 +44,7 @@
     "name": "Flow Wrap Film",
     "description": "Increase production volumes with wrapping in both low to medium barrier options.",
     "category": "Rollstock Films",
-    "image": "/rollstock.png",
+    "image": "/VFFS.jpg",
     "bgImage": "/rollstock-bg.jpg"
   },
   {
@@ -52,7 +52,7 @@
     "name": "Shrink Bags",
     "description": "High barrier, high quality shrink bags for any application.",
     "category": "Shrink",
-    "image": "/shrink-bags.png",
+    "image": "/Shrinkwrapped-cheese.png",
     "bgImage": "/shrink-bags-bg.jpg"
   },
   {
@@ -60,7 +60,7 @@
     "name": "Shrinkable Thermoforming Film",
     "description": "Automate your shrink production. Remove the manual process of loading shrink bags.",
     "category": "Shrink",
-    "image": "/shrink-bags.png",
+    "image": "/Shrinkable-Thermoforming-film-Meat.png",
     "bgImage": "/shrink-bags-bg.jpg"
   },
   {
@@ -68,7 +68,7 @@
     "name": "Shrink Lidding Film",
     "description": "Automate your shrink production. Remove the manual process of loading shrink bags.",
     "category": "Shrink",
-    "image": "/shrink-bags.png",
+    "image": "/Beef-lidding-film.png",
     "bgImage": "/shrink-bags-bg.jpg"
   },
   {
@@ -76,7 +76,7 @@
     "name": "Stand-Up Pouches",
     "description": "The most common and versatile preformed pouch.",
     "category": "Pouches",
-    "image": "/vacuum-pouches.png",
+    "image": "/Stand-Up-Pouch-2.png",
     "bgImage": "/vacuum-pouches-bg.jpg"
   },
   {
@@ -84,7 +84,7 @@
     "name": "Vacuum & Sous Vide Bags",
     "description": "Classic vacuum seal bags for any chamber vacuum sealer.",
     "category": "Pouches",
-    "image": "/vacuum-pouches.png",
+    "image": "/Vacuumed-pouch.png",
     "bgImage": "/vacuum-pouches-bg.jpg"
   },
   {
@@ -92,7 +92,7 @@
     "name": "Box Pouches",
     "description": "A stand-up pouch with extra, eye-catching surface area.",
     "category": "Pouches",
-    "image": "/vacuum-pouches.png",
+    "image": "/Box-Pouch.png",
     "bgImage": "/vacuum-pouches-bg.jpg"
   },
   {
@@ -100,7 +100,7 @@
     "name": "Spout Pouches",
     "description": "A spout pouch for your liquid and semi-liquid products.",
     "category": "Pouches",
-    "image": "/vacuum-pouches.png",
+    "image": "/Spout-Pouch.png",
     "bgImage": "/vacuum-pouches-bg.jpg"
   },
   {
@@ -108,7 +108,7 @@
     "name": "High Barrier Casings",
     "description": "Barrier and cook-in casings ideal for sausages and processed meats.",
     "category": "Casings",
-    "image": "/vacuum-pouches.png",
+    "image": "/Casigns.png",
     "bgImage": "/vacuum-pouches-bg.jpg"
   },
   {
@@ -116,7 +116,7 @@
     "name": "Recyclable Pouches",
     "description": "Packaging for circular economy.",
     "category": "Recyclable",
-    "image": "/Flat-poly-bag.png",
+    "image": "/Stand-Up-Pouch-Recyclable.png",
     "bgImage": "/hero-bg.jpg"
   },
   {
@@ -124,7 +124,7 @@
     "name": "Recyclable Shrink Bags",
     "description": "Quality bags that meet the Golden Design Rule requirements.",
     "category": "Recyclable",
-    "image": "/Gusseted-poly-bag-1.png",
+    "image": "/Recyclable-shrink-bags.png",
     "bgImage": "/hero-bg.jpg"
   },
   {
@@ -132,7 +132,7 @@
     "name": "Recyclable Thermoforming Film",
     "description": "Clear, strong film that work in sous vide applications.",
     "category": "Recyclable",
-    "image": "/Poly-tubing.png",
+    "image": "/Recyclable-Thermoforming-film.png",
     "bgImage": "/hero-bg.jpg"
   },
   {
@@ -164,7 +164,7 @@
     "name": "Box Liners",
     "description": "Resistant box liners to prevent moisture transfer.",
     "category": "Poly",
-    "image": "/box-liners.png",
+    "image": "/Box-linners.png",
     "bgImage": "/hero-bg.jpg"
   },
   {
@@ -172,7 +172,7 @@
     "name": "Skin Boards",
     "description": "Fibre-based carrier tray with a removable barrier liner.",
     "category": "Paper Boards",
-    "image": "/box-liners.png",
+    "image": "/Skin-boards.png",
     "bgImage": "/hero-bg.jpg"
   },
   {
@@ -180,7 +180,7 @@
     "name": "Presentation Boards",
     "description": "They are also great for presenting any type of food.",
     "category": "Paper Boards",
-    "image": "/box-liners.png",
+    "image": "/Skin-boards.png",
     "bgImage": "/hero-bg.jpg"
   }
 ]
