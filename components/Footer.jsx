@@ -16,10 +16,10 @@ const Footer = () => {
         <div className="footer-col">
           <h4>Products</h4>
           <ul>
-            <li><Link href="/box-liners">Box Liners</Link></li>
-            <li><Link href="/vacuum-pouches">Vacuum Pouches</Link></li>
-            <li><Link href="/shrink-bags">Shrink Bags</Link></li>
-            <li><Link href="/rollstock-film">Rollstock Film</Link></li>
+            <li><Link href="/products/box-liners">Box Liners</Link></li>
+            <li><Link href="/products/vacuum-pouches">Vacuum Pouches</Link></li>
+            <li><Link href="/products/shrink-bags">Shrink Bags</Link></li>
+            <li><Link href="/products/thermoforming-film">Rollstock Film</Link></li>
           </ul>
         </div>
 

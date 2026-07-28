@@ -1,9 +1,0 @@
-{
-  "/_global-error/page": "app/_global-error/page.js",
-  "/_not-found/page": "app/_not-found/page.js",
-  "/box-liners/page": "app/box-liners/page.js",
-  "/page": "app/page.js",
-  "/rollstock-film/page": "app/rollstock-film/page.js",
-  "/shrink-bags/page": "app/shrink-bags/page.js",
-  "/vacuum-pouches/page": "app/vacuum-pouches/page.js"
-}

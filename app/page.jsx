@@ -9,7 +9,7 @@ export default function Home() {
           <h1>Flexible Packaging<br />Solutions <span>for Growth</span></h1>
           <p>We help food producers extend shelf life, protect product quality, reduce waste, and improve shelf presentation with high-performance packaging solutions.</p>
           <div className="hero-actions">
-            <Link href="/box-liners" className="btn-primary">View Products</Link>
+            <Link href="/products/box-liners" className="btn-primary">View Products</Link>
             <Link href="#" className="btn-outline">Talk to an Expert</Link>
           </div>
         </div>
@@ -43,21 +43,21 @@ export default function Home() {
         <div className="kicker">Featured Categories</div>
         <h2 className="section-title">Packaging Solutions</h2>
         <div className="categories-grid">
-          <Link href="/box-liners" className="category-card">
+          <Link href="/products/box-liners" className="category-card">
             <img src="/box-liners.png" alt="Box Liners" />
             <div className="category-content">
               <h3>Box Liners</h3>
               <p>Prevent moisture transfer onto boxes or bins with varying thicknesses and sizes.</p>
             </div>
           </Link>
-          <Link href="/vacuum-pouches" className="category-card">
+          <Link href="/products/vacuum-pouches" className="category-card">
             <img src="/vacuum-pouches.png" alt="Vacuum Pouches" />
             <div className="category-content">
               <h3>Vacuum Pouches</h3>
               <p>High-barrier pouches for meat and seafood processors.</p>
             </div>
           </Link>
-          <Link href="/rollstock-film" className="category-card">
+          <Link href="/products/thermoforming-film" className="category-card">
             <img src="/rollstock.png" alt="Rollstock Film" />
             <div className="category-content">
               <h3>Rollstock Film</h3>

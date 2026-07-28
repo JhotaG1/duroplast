@@ -18,10 +18,10 @@ const Navbar = () => {
       
       <div className={`nav-links ${isMenuOpen ? 'mobile-open' : ''}`}>
         <Link href="/" className={pathname === '/' ? 'active' : ''}>Home</Link>
-        <Link href="/box-liners" className={pathname === '/box-liners' ? 'active' : ''}>Box Liners</Link>
-        <Link href="/rollstock-film" className={pathname === '/rollstock-film' ? 'active' : ''}>Rollstock</Link>
-        <Link href="/vacuum-pouches" className={pathname === '/vacuum-pouches' ? 'active' : ''}>Vacuum Pouches</Link>
-        <Link href="/shrink-bags" className={pathname === '/shrink-bags' ? 'active' : ''}>Shrink Bags</Link>
+        <Link href="/products/box-liners" className={pathname === '/products/box-liners' ? 'active' : ''}>Box Liners</Link>
+        <Link href="/products/thermoforming-film" className={pathname === '/products/thermoforming-film' ? 'active' : ''}>Rollstock</Link>
+        <Link href="/products/vacuum-pouches" className={pathname === '/products/vacuum-pouches' ? 'active' : ''}>Vacuum Pouches</Link>
+        <Link href="/products/shrink-bags" className={pathname === '/products/shrink-bags' ? 'active' : ''}>Shrink Bags</Link>
         <Link href="#" className="btn-primary" style={{ padding: '8px 20px', marginLeft: '10px' }}>Get Quote</Link>
         <button style={{ background: 'none', border: 'none', cursor: 'pointer', display: 'flex', alignItems: 'center' }}>
           <ShoppingCart size={20} color="var(--primary-color)" />
