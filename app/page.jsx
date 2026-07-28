@@ -50,20 +50,20 @@ export default function Home() {
               <p>Prevent moisture transfer onto boxes or bins with varying thicknesses and sizes.</p>
             </div>
           </Link>
-          <div className="category-card">
-            <div className="category-placeholder">Vacuum Pouches</div>
+          <Link href="/vacuum-pouches" className="category-card">
+            <img src="/vacuum-pouches.png" alt="Vacuum Pouches" />
             <div className="category-content">
               <h3>Vacuum Pouches</h3>
               <p>High-barrier pouches for meat and seafood processors.</p>
             </div>
-          </div>
-          <div className="category-card">
-            <div className="category-placeholder">Rollstock</div>
+          </Link>
+          <Link href="/rollstock-film" className="category-card">
+            <img src="/rollstock.png" alt="Rollstock Film" />
             <div className="category-content">
               <h3>Rollstock Film</h3>
               <p>Automated packaging solutions for high-volume production.</p>
             </div>
-          </div>
+          </Link>
         </div>
       </section>
     </div>

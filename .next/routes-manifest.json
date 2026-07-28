@@ -46,6 +46,24 @@
       "regex": "^/box\\-liners(?:/)?$",
       "routeKeys": {},
       "namedRegex": "^/box\\-liners(?:/)?$"
+    },
+    {
+      "page": "/rollstock-film",
+      "regex": "^/rollstock\\-film(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/rollstock\\-film(?:/)?$"
+    },
+    {
+      "page": "/shrink-bags",
+      "regex": "^/shrink\\-bags(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/shrink\\-bags(?:/)?$"
+    },
+    {
+      "page": "/vacuum-pouches",
+      "regex": "^/vacuum\\-pouches(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/vacuum\\-pouches(?:/)?$"
     }
   ],
   "dataRoutes": [],

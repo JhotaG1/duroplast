@@ -17,9 +17,9 @@ const Footer = () => {
           <h4>Products</h4>
           <ul>
             <li><Link href="/box-liners">Box Liners</Link></li>
-            <li><Link href="#">Vacuum Pouches</Link></li>
-            <li><Link href="#">Shrink Bags</Link></li>
-            <li><Link href="#">Rollstock Film</Link></li>
+            <li><Link href="/vacuum-pouches">Vacuum Pouches</Link></li>
+            <li><Link href="/shrink-bags">Shrink Bags</Link></li>
+            <li><Link href="/rollstock-film">Rollstock Film</Link></li>
           </ul>
         </div>
 

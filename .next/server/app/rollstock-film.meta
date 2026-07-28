@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/rollstock-film/layout,_N_T_/rollstock-film/page,_N_T_/rollstock-film"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/rollstock-film/__PAGE__",
+    "/rollstock-film",
+    "/_index",
+    "/_head"
+  ]
+}

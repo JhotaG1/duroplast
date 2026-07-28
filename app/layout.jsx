@@ -3,6 +3,7 @@ import Navbar from '../components/Navbar';
 import Footer from '../components/Footer';
 import './globals.css';
 import './App.css';
+import './product.css';
 
 const outfit = Outfit({ subsets: ['latin'] });
 
