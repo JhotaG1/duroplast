@@ -42,6 +42,19 @@ export default function ProductLanding({ params }) {
               <div className="main-image">
                 <img src={product.image} alt={product.name} />
               </div>
+              {product.video && (
+                <div className="product-video">
+                  <video 
+                    src={product.video} 
+                    autoPlay 
+                    loop 
+                    muted 
+                    playsInline 
+                    controls={false}
+                    className="demo-video"
+                  ></video>
+                </div>
+              )}
             </div>
 
             {/* Product Info */}

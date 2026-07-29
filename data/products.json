@@ -67,9 +67,10 @@
     "name": "Shrinkable Thermoforming Film",
     "description": "Automate your shrink production. Remove the manual process of loading shrink bags.",
     "category": "Shrink",
-    "image": "/Shrinkable-Thermoforming-film-Meat.png",
+    "image": "/Shrinkable-thermoforming-thermoformer.jpg",
     "bgImage": "/shrink-bags-bg.jpg",
-    "features": []
+    "features": [],
+    "video": "/shrinkable-thermoforming-video.mp4"
   },
   {
     "slug": "shrink-lidding-film",
