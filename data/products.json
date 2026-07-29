@@ -13,7 +13,7 @@
     "name": "Semi-Rigid Thermoforming Film",
     "description": "Semi-rigid film for horizontal high-speed form-fill-and-seal (HFFS) applications.",
     "category": "Rollstock Films",
-    "image": "/Thermoformed-Feta-cheese.png",
+    "image": "/Semi-rigid.png",
     "bgImage": "/rollstock-bg.jpg",
     "features": []
   },
@@ -49,7 +49,7 @@
     "name": "Flow Wrap Film",
     "description": "Increase production volumes with wrapping in both low to medium barrier options.",
     "category": "Rollstock Films",
-    "image": "/VFFS.jpg",
+    "image": "/pack-glossy-plastic-food-snack.png",
     "bgImage": "/rollstock-bg.jpg",
     "features": []
   },
