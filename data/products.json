@@ -41,7 +41,7 @@
     "description": "For high-output production in a VFFS machine.",
     "category": "Rollstock Films",
     "image": "/vffs-film-hero.png",
-    "bgImage": "/rollstock-bg.jpg",
+    "bgImage": "/vffs-film-bg.jpg",
     "features": [],
     "video": "/vffs-film-video.mp4"
   },
@@ -69,7 +69,7 @@
     "description": "Automate your shrink production. Remove the manual process of loading shrink bags.",
     "category": "Shrink",
     "image": "/Shrinkable-thermoforming-thermoformer.jpg",
-    "bgImage": "/shrink-bags-bg.jpg",
+    "bgImage": "/shrinkable-thermoforming-bg.png",
     "features": [],
     "video": "/shrinkable-thermoforming-video.mp4"
   },
