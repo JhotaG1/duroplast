@@ -5,7 +5,19 @@
     "description": "High volume, high barrier film for horizontal form-fill-and-seal (HFFS) applications.",
     "category": "Rollstock Films",
     "image": "/Thermoformed-Feta-cheese.png",
-    "bgImage": "/rollstock-bg.jpg"
+    "bgImage": "/rollstock-bg.jpg",
+    "features": [
+      "Why DuropacAbout UsSustainability",
+      "About Us",
+      "Sustainability",
+      "Thermoforming Film",
+      "Semi-Rigid Thermoforming Film",
+      "Lidding Film",
+      "Shrink Lidding Film",
+      "Vacuum Skin Film",
+      "VFFS Film",
+      "Flow Wrap Film"
+    ]
   },
   {
     "slug": "semi-rigid",
@@ -13,7 +25,19 @@
     "description": "Semi-rigid film for horizontal high-speed form-fill-and-seal (HFFS) applications.",
     "category": "Rollstock Films",
     "image": "/Thermoformed-Feta-cheese.png",
-    "bgImage": "/rollstock-bg.jpg"
+    "bgImage": "/rollstock-bg.jpg",
+    "features": [
+      "Why DuropacAbout UsSustainability",
+      "About Us",
+      "Sustainability",
+      "Thermoforming Film",
+      "Semi-Rigid Thermoforming Film",
+      "Lidding Film",
+      "Shrink Lidding Film",
+      "Vacuum Skin Film",
+      "VFFS Film",
+      "Flow Wrap Film"
+    ]
   },
   {
     "slug": "lidding-film",
@@ -21,7 +45,19 @@
     "description": "Hermetically sealed film for the top of your tray or container.",
     "category": "Rollstock Films",
     "image": "/Beef-lidding-film.png",
-    "bgImage": "/rollstock-bg.jpg"
+    "bgImage": "/rollstock-bg.jpg",
+    "features": [
+      "Why DuropacAbout UsSustainability",
+      "About Us",
+      "Sustainability",
+      "Thermoforming Film",
+      "Semi-Rigid Thermoforming Film",
+      "Lidding Film",
+      "Shrink Lidding Film",
+      "Vacuum Skin Film",
+      "VFFS Film",
+      "Flow Wrap Film"
+    ]
   },
   {
     "slug": "skin-film",
@@ -29,7 +65,19 @@
     "description": "For horizontal form-fill-and-seal applications, allowing you to better show off the quality of your product.",
     "category": "Rollstock Films",
     "image": "/Steak-in-skin-film.png",
-    "bgImage": "/rollstock-bg.jpg"
+    "bgImage": "/rollstock-bg.jpg",
+    "features": [
+      "Why DuropacAbout UsSustainability",
+      "About Us",
+      "Sustainability",
+      "Thermoforming Film",
+      "Semi-Rigid Thermoforming Film",
+      "Lidding Film",
+      "Shrink Lidding Film",
+      "Vacuum Skin Film",
+      "VFFS Film",
+      "Flow Wrap Film"
+    ]
   },
   {
     "slug": "vffs-film",
@@ -37,7 +85,19 @@
     "description": "For high-output production in a VFFS machine.",
     "category": "Rollstock Films",
     "image": "/VFFS.jpg",
-    "bgImage": "/rollstock-bg.jpg"
+    "bgImage": "/rollstock-bg.jpg",
+    "features": [
+      "Why DuropacAbout UsSustainability",
+      "About Us",
+      "Sustainability",
+      "Thermoforming Film",
+      "Semi-Rigid Thermoforming Film",
+      "Lidding Film",
+      "Shrink Lidding Film",
+      "Vacuum Skin Film",
+      "VFFS Film",
+      "Flow Wrap Film"
+    ]
   },
   {
     "slug": "flow-wrap-film",
@@ -45,7 +105,19 @@
     "description": "Increase production volumes with wrapping in both low to medium barrier options.",
     "category": "Rollstock Films",
     "image": "/VFFS.jpg",
-    "bgImage": "/rollstock-bg.jpg"
+    "bgImage": "/rollstock-bg.jpg",
+    "features": [
+      "Why DuropacAbout UsSustainability",
+      "About Us",
+      "Sustainability",
+      "Thermoforming Film",
+      "Semi-Rigid Thermoforming Film",
+      "Lidding Film",
+      "Shrink Lidding Film",
+      "Vacuum Skin Film",
+      "VFFS Film",
+      "Flow Wrap Film"
+    ]
   },
   {
     "slug": "shrink-bags",
@@ -53,7 +125,19 @@
     "description": "High barrier, high quality shrink bags for any application.",
     "category": "Shrink",
     "image": "/Shrinkwrapped-cheese.png",
-    "bgImage": "/shrink-bags-bg.jpg"
+    "bgImage": "/shrink-bags-bg.jpg",
+    "features": [
+      "Why DuropacAbout UsSustainability",
+      "About Us",
+      "Sustainability",
+      "Thermoforming Film",
+      "Semi-Rigid Thermoforming Film",
+      "Lidding Film",
+      "Shrink Lidding Film",
+      "Vacuum Skin Film",
+      "VFFS Film",
+      "Flow Wrap Film"
+    ]
   },
   {
     "slug": "shrinkable-thermoforming",
@@ -61,7 +145,19 @@
     "description": "Automate your shrink production. Remove the manual process of loading shrink bags.",
     "category": "Shrink",
     "image": "/Shrinkable-Thermoforming-film-Meat.png",
-    "bgImage": "/shrink-bags-bg.jpg"
+    "bgImage": "/shrink-bags-bg.jpg",
+    "features": [
+      "Why DuropacAbout UsSustainability",
+      "About Us",
+      "Sustainability",
+      "Thermoforming Film",
+      "Semi-Rigid Thermoforming Film",
+      "Lidding Film",
+      "Shrink Lidding Film",
+      "Vacuum Skin Film",
+      "VFFS Film",
+      "Flow Wrap Film"
+    ]
   },
   {
     "slug": "shrink-lidding-film",
@@ -69,7 +165,19 @@
     "description": "Automate your shrink production. Remove the manual process of loading shrink bags.",
     "category": "Shrink",
     "image": "/Beef-lidding-film.png",
-    "bgImage": "/shrink-bags-bg.jpg"
+    "bgImage": "/shrink-bags-bg.jpg",
+    "features": [
+      "Why DuropacAbout UsSustainability",
+      "About Us",
+      "Sustainability",
+      "Thermoforming Film",
+      "Semi-Rigid Thermoforming Film",
+      "Lidding Film",
+      "Shrink Lidding Film",
+      "Vacuum Skin Film",
+      "VFFS Film",
+      "Flow Wrap Film"
+    ]
   },
   {
     "slug": "stand-up-pouches",
@@ -77,7 +185,19 @@
     "description": "The most common and versatile preformed pouch.",
     "category": "Pouches",
     "image": "/Stand-Up-Pouch-2.png",
-    "bgImage": "/vacuum-pouches-bg.jpg"
+    "bgImage": "/vacuum-pouches-bg.jpg",
+    "features": [
+      "Why DuropacAbout UsSustainability",
+      "About Us",
+      "Sustainability",
+      "Thermoforming Film",
+      "Semi-Rigid Thermoforming Film",
+      "Lidding Film",
+      "Shrink Lidding Film",
+      "Vacuum Skin Film",
+      "VFFS Film",
+      "Flow Wrap Film"
+    ]
   },
   {
     "slug": "vacuum-pouches",
@@ -85,7 +205,19 @@
     "description": "Classic vacuum seal bags for any chamber vacuum sealer.",
     "category": "Pouches",
     "image": "/Vacuumed-pouch.png",
-    "bgImage": "/vacuum-pouches-bg.jpg"
+    "bgImage": "/vacuum-pouches-bg.jpg",
+    "features": [
+      "Why DuropacAbout UsSustainability",
+      "About Us",
+      "Sustainability",
+      "Thermoforming Film",
+      "Semi-Rigid Thermoforming Film",
+      "Lidding Film",
+      "Shrink Lidding Film",
+      "Vacuum Skin Film",
+      "VFFS Film",
+      "Flow Wrap Film"
+    ]
   },
   {
     "slug": "box-pouches",
@@ -93,7 +225,19 @@
     "description": "A stand-up pouch with extra, eye-catching surface area.",
     "category": "Pouches",
     "image": "/Box-Pouch.png",
-    "bgImage": "/vacuum-pouches-bg.jpg"
+    "bgImage": "/vacuum-pouches-bg.jpg",
+    "features": [
+      "Why DuropacAbout UsSustainability",
+      "About Us",
+      "Sustainability",
+      "Thermoforming Film",
+      "Semi-Rigid Thermoforming Film",
+      "Lidding Film",
+      "Shrink Lidding Film",
+      "Vacuum Skin Film",
+      "VFFS Film",
+      "Flow Wrap Film"
+    ]
   },
   {
     "slug": "spout-pouches",
@@ -101,7 +245,19 @@
     "description": "A spout pouch for your liquid and semi-liquid products.",
     "category": "Pouches",
     "image": "/Spout-Pouch.png",
-    "bgImage": "/vacuum-pouches-bg.jpg"
+    "bgImage": "/vacuum-pouches-bg.jpg",
+    "features": [
+      "Why DuropacAbout UsSustainability",
+      "About Us",
+      "Sustainability",
+      "Thermoforming Film",
+      "Semi-Rigid Thermoforming Film",
+      "Lidding Film",
+      "Shrink Lidding Film",
+      "Vacuum Skin Film",
+      "VFFS Film",
+      "Flow Wrap Film"
+    ]
   },
   {
     "slug": "high-barrier-casings",
@@ -109,7 +265,19 @@
     "description": "Barrier and cook-in casings ideal for sausages and processed meats.",
     "category": "Casings",
     "image": "/Casigns.png",
-    "bgImage": "/vacuum-pouches-bg.jpg"
+    "bgImage": "/vacuum-pouches-bg.jpg",
+    "features": [
+      "Why DuropacAbout UsSustainability",
+      "About Us",
+      "Sustainability",
+      "Thermoforming Film",
+      "Semi-Rigid Thermoforming Film",
+      "Lidding Film",
+      "Shrink Lidding Film",
+      "Vacuum Skin Film",
+      "VFFS Film",
+      "Flow Wrap Film"
+    ]
   },
   {
     "slug": "recyclable-pouches",
@@ -117,7 +285,19 @@
     "description": "Packaging for circular economy.",
     "category": "Recyclable",
     "image": "/Stand-Up-Pouch-Recyclable.png",
-    "bgImage": "/hero-bg.jpg"
+    "bgImage": "/hero-bg.jpg",
+    "features": [
+      "Why DuropacAbout UsSustainability",
+      "About Us",
+      "Sustainability",
+      "Thermoforming Film",
+      "Semi-Rigid Thermoforming Film",
+      "Lidding Film",
+      "Shrink Lidding Film",
+      "Vacuum Skin Film",
+      "VFFS Film",
+      "Flow Wrap Film"
+    ]
   },
   {
     "slug": "recyclable-shrink-bags",
@@ -125,7 +305,19 @@
     "description": "Quality bags that meet the Golden Design Rule requirements.",
     "category": "Recyclable",
     "image": "/Recyclable-shrink-bags.png",
-    "bgImage": "/hero-bg.jpg"
+    "bgImage": "/hero-bg.jpg",
+    "features": [
+      "Why DuropacAbout UsSustainability",
+      "About Us",
+      "Sustainability",
+      "Thermoforming Film",
+      "Semi-Rigid Thermoforming Film",
+      "Lidding Film",
+      "Shrink Lidding Film",
+      "Vacuum Skin Film",
+      "VFFS Film",
+      "Flow Wrap Film"
+    ]
   },
   {
     "slug": "recyclable-thermoforming",
@@ -133,7 +325,19 @@
     "description": "Clear, strong film that work in sous vide applications.",
     "category": "Recyclable",
     "image": "/Recyclable-Thermoforming-film.png",
-    "bgImage": "/hero-bg.jpg"
+    "bgImage": "/hero-bg.jpg",
+    "features": [
+      "Why DuropacAbout UsSustainability",
+      "About Us",
+      "Sustainability",
+      "Thermoforming Film",
+      "Semi-Rigid Thermoforming Film",
+      "Lidding Film",
+      "Shrink Lidding Film",
+      "Vacuum Skin Film",
+      "VFFS Film",
+      "Flow Wrap Film"
+    ]
   },
   {
     "slug": "flat-poly-bags",
@@ -141,7 +345,19 @@
     "description": "Poly bags with no gusset for a variety of products.",
     "category": "Poly",
     "image": "/Flat-poly-bag.png",
-    "bgImage": "/hero-bg.jpg"
+    "bgImage": "/hero-bg.jpg",
+    "features": [
+      "Why DuropacAbout UsSustainability",
+      "About Us",
+      "Sustainability",
+      "Thermoforming Film",
+      "Semi-Rigid Thermoforming Film",
+      "Lidding Film",
+      "Shrink Lidding Film",
+      "Vacuum Skin Film",
+      "VFFS Film",
+      "Flow Wrap Film"
+    ]
   },
   {
     "slug": "gusseted-poly-bags",
@@ -149,7 +365,19 @@
     "description": "Get extra product volume with side or bottom gussets.",
     "category": "Poly",
     "image": "/Gusseted-poly-bag-1.png",
-    "bgImage": "/hero-bg.jpg"
+    "bgImage": "/hero-bg.jpg",
+    "features": [
+      "Why DuropacAbout UsSustainability",
+      "About Us",
+      "Sustainability",
+      "Thermoforming Film",
+      "Semi-Rigid Thermoforming Film",
+      "Lidding Film",
+      "Shrink Lidding Film",
+      "Vacuum Skin Film",
+      "VFFS Film",
+      "Flow Wrap Film"
+    ]
   },
   {
     "slug": "poly-tubing-rolls",
@@ -157,7 +385,19 @@
     "description": "Continous film ideal for products with varying sizes.",
     "category": "Poly",
     "image": "/Poly-tubing.png",
-    "bgImage": "/hero-bg.jpg"
+    "bgImage": "/hero-bg.jpg",
+    "features": [
+      "Why DuropacAbout UsSustainability",
+      "About Us",
+      "Sustainability",
+      "Thermoforming Film",
+      "Semi-Rigid Thermoforming Film",
+      "Lidding Film",
+      "Shrink Lidding Film",
+      "Vacuum Skin Film",
+      "VFFS Film",
+      "Flow Wrap Film"
+    ]
   },
   {
     "slug": "box-liners",
@@ -165,7 +405,19 @@
     "description": "Resistant box liners to prevent moisture transfer.",
     "category": "Poly",
     "image": "/Box-linners.png",
-    "bgImage": "/hero-bg.jpg"
+    "bgImage": "/hero-bg.jpg",
+    "features": [
+      "Why DuropacAbout UsSustainability",
+      "About Us",
+      "Sustainability",
+      "Thermoforming Film",
+      "Semi-Rigid Thermoforming Film",
+      "Lidding Film",
+      "Shrink Lidding Film",
+      "Vacuum Skin Film",
+      "VFFS Film",
+      "Flow Wrap Film"
+    ]
   },
   {
     "slug": "skin-boards",
@@ -173,7 +425,19 @@
     "description": "Fibre-based carrier tray with a removable barrier liner.",
     "category": "Paper Boards",
     "image": "/Skin-boards.png",
-    "bgImage": "/hero-bg.jpg"
+    "bgImage": "/hero-bg.jpg",
+    "features": [
+      "Why DuropacAbout UsSustainability",
+      "About Us",
+      "Sustainability",
+      "Thermoforming Film",
+      "Semi-Rigid Thermoforming Film",
+      "Lidding Film",
+      "Shrink Lidding Film",
+      "Vacuum Skin Film",
+      "VFFS Film",
+      "Flow Wrap Film"
+    ]
   },
   {
     "slug": "presentation-boards",
@@ -181,6 +445,18 @@
     "description": "They are also great for presenting any type of food.",
     "category": "Paper Boards",
     "image": "/Skin-boards.png",
-    "bgImage": "/hero-bg.jpg"
+    "bgImage": "/hero-bg.jpg",
+    "features": [
+      "Why DuropacAbout UsSustainability",
+      "About Us",
+      "Sustainability",
+      "Thermoforming Film",
+      "Semi-Rigid Thermoforming Film",
+      "Lidding Film",
+      "Shrink Lidding Film",
+      "Vacuum Skin Film",
+      "VFFS Film",
+      "Flow Wrap Film"
+    ]
   }
 ]

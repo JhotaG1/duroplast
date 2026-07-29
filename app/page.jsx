@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import './Home.css';
+import productsData from '../data/products.json';
 
 export default function Home() {
   return (
@@ -43,27 +44,15 @@ export default function Home() {
         <div className="kicker">Featured Categories</div>
         <h2 className="section-title">Packaging Solutions</h2>
         <div className="categories-grid">
-          <Link href="/products/box-liners" className="category-card">
-            <img src="/box-liners.png" alt="Box Liners" />
-            <div className="category-content">
-              <h3>Box Liners</h3>
-              <p>Prevent moisture transfer onto boxes or bins with varying thicknesses and sizes.</p>
-            </div>
-          </Link>
-          <Link href="/products/vacuum-pouches" className="category-card">
-            <img src="/vacuum-pouches.png" alt="Vacuum Pouches" />
-            <div className="category-content">
-              <h3>Vacuum Pouches</h3>
-              <p>High-barrier pouches for meat and seafood processors.</p>
-            </div>
-          </Link>
-          <Link href="/products/thermoforming-film" className="category-card">
-            <img src="/rollstock.png" alt="Rollstock Film" />
-            <div className="category-content">
-              <h3>Rollstock Film</h3>
-              <p>Automated packaging solutions for high-volume production.</p>
-            </div>
-          </Link>
+          {productsData.map((product) => (
+            <Link key={product.slug} href={`/products/${product.slug}`} className="category-card">
+              <img src={product.image} alt={product.name} />
+              <div className="category-content">
+                <h3>{product.name}</h3>
+                <p>{product.description}</p>
+              </div>
+            </Link>
+          ))}
         </div>
       </section>
     </div>

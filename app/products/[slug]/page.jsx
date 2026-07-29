@@ -53,18 +53,29 @@ export default function ProductLanding({ params }) {
               <h2>Customize Your Quote</h2>
               
               <div className="benefits-list">
-                <div className="benefit-item">
-                  <Check size={18} color="var(--accent-color)" />
-                  <span>High quality {product.category.toLowerCase()} solution</span>
-                </div>
-                <div className="benefit-item">
-                  <Check size={18} color="var(--accent-color)" />
-                  <span>Customizable to your specific requirements</span>
-                </div>
-                <div className="benefit-item">
-                  <Check size={18} color="var(--accent-color)" />
-                  <span>Optimized for industrial food packaging</span>
-                </div>
+                {product.features && product.features.length > 0 ? (
+                  product.features.map((feature, idx) => (
+                    <div className="benefit-item" key={idx}>
+                      <Check size={18} color="var(--accent-color)" />
+                      <span>{feature}</span>
+                    </div>
+                  ))
+                ) : (
+                  <>
+                    <div className="benefit-item">
+                      <Check size={18} color="var(--accent-color)" />
+                      <span>High quality {product.category.toLowerCase()} solution</span>
+                    </div>
+                    <div className="benefit-item">
+                      <Check size={18} color="var(--accent-color)" />
+                      <span>Customizable to your specific requirements</span>
+                    </div>
+                    <div className="benefit-item">
+                      <Check size={18} color="var(--accent-color)" />
+                      <span>Optimized for industrial food packaging</span>
+                    </div>
+                  </>
+                )}
               </div>
 
               <div className="options-section">
