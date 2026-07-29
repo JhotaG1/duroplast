@@ -5,6 +5,7 @@ import { ShoppingCart, Check, Info } from 'lucide-react';
 import Link from 'next/link';
 import productsData from '../../../data/products.json';
 import { notFound } from 'next/navigation';
+import { useQuote } from '../../../context/QuoteContext';
 
 export default function ProductLanding({ params }) {
   // In Next.js 15, params is a Promise. We unwrap it with React.use()
@@ -20,9 +21,10 @@ export default function ProductLanding({ params }) {
   const [quantity, setQuantity] = useState(1);
   const [option1, setOption1] = useState('Standard');
   const [option2, setOption2] = useState('Medium');
+  const { addToQuote } = useQuote();
 
   const handleAddToCart = () => {
-    alert(`Added ${quantity} of ${product.name} to quote.`);
+    addToQuote(product, quantity, { 'Type/Material': option1, 'Size/Width': option2 });
   };
 
   return (

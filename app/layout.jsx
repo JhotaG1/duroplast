@@ -12,13 +12,19 @@ export const metadata = {
   description: 'High-performance flexible packaging solutions. Protect freshness, extend shelf life, reduce waste, and improve shelf presentation.',
 };
 
+import { QuoteProvider } from '../context/QuoteContext';
+import CartSidebar from '../components/CartSidebar';
+
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body className={outfit.className}>
-        <Navbar />
-        <main>{children}</main>
-        <Footer />
+        <QuoteProvider>
+          <Navbar />
+          <main>{children}</main>
+          <Footer />
+          <CartSidebar />
+        </QuoteProvider>
       </body>
     </html>
   );

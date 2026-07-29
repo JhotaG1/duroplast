@@ -5,10 +5,12 @@ import { usePathname } from 'next/navigation';
 import { ShoppingCart, Menu, X, ChevronDown, ChevronRight } from 'lucide-react';
 import { useState } from 'react';
 import productsData from '../data/products.json';
+import { useQuote } from '../context/QuoteContext';
 
 const Navbar = () => {
   const pathname = usePathname();
   const [isMenuOpen, setIsMenuOpen] = useState(false);
+  const { totalItems, toggleCart } = useQuote();
 
   // Group products by category
   const categories = productsData.reduce((acc, product) => {
@@ -54,9 +56,10 @@ const Navbar = () => {
           </div>
         </div>
 
-        <Link href="#" className="btn-primary" style={{ padding: '8px 20px', marginLeft: '10px' }}>Get Quote</Link>
-        <button style={{ background: 'none', border: 'none', cursor: 'pointer', display: 'flex', alignItems: 'center' }}>
+        <button className="btn-primary" onClick={toggleCart} style={{ padding: '8px 20px', marginLeft: '10px', border: 'none', cursor: 'pointer' }}>Get Quote</button>
+        <button className="nav-cart-wrapper" onClick={toggleCart} style={{ background: 'none', border: 'none', cursor: 'pointer' }}>
           <ShoppingCart size={20} color="var(--primary-color)" />
+          {totalItems > 0 && <span className="nav-cart-bubble">{totalItems}</span>}
         </button>
       </div>
 
