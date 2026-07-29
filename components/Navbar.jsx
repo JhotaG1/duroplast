@@ -4,7 +4,7 @@ import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import { ShoppingCart, Menu, X, ChevronDown, ChevronRight } from 'lucide-react';
 import { useState } from 'react';
-import productsData from '@/data/products.json';
+import productsData from '../data/products.json';
 
 const Navbar = () => {
   const pathname = usePathname();
